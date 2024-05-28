@@ -23,3 +23,4 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+* [Docker Compose を使用して Spring Boot アプリケーションを実行およびデバッグする](https://pleiades.io/help/idea/run-and-debug-a-spring-boot-application-using-docker-compose.html)
